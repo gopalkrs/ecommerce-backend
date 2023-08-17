@@ -16,9 +16,9 @@
     "localtunnel": "^2.0.2",
     "moment": "^2.29.3",
     "mongoose": "^6.2.9",
-    "node-sass": "^7.0.1",
     "nodemon": "^2.0.15",
     "razorpay": "^2.8.1",
+    "sass": "^1.65.1",
     "shortid": "^2.2.16",
     "web-vitals": "^2.1.4"
   },
