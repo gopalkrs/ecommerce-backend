@@ -82,6 +82,3 @@ JWT-based stateless authentication
 
 Secure API design using middlewares
 
-Input validation with Zod
-
-
